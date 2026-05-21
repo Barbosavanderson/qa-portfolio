@@ -1,0 +1,203 @@
+# =========================
+# SISTEMA OPERACIONAL
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# PYTHON
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual Environment
+venv/
+.env/
+.venv/
+
+# Pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Pytest
+.pytest_cache/
+.coverage
+htmlcov/
+coverage.xml
+
+# Ruff / Mypy / Cache
+.mypy_cache/
+.ruff_cache/
+.cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# =========================
+# FASTAPI / UVICORN
+# =========================
+*.log
+logs/
+tmp/
+
+# =========================
+# BANCO DE DADOS
+# =========================
+*.db
+*.sqlite
+*.sqlite3
+
+# Dumps
+*.sql
+*.dump
+*.bak
+
+# =========================
+# VARIÁVEIS SENSÍVEIS
+# =========================
+.env
+.env.*
+*.env
+
+# Secrets / Keys
+*.pem
+*.key
+*.crt
+*.pfx
+*.p12
+
+# AWS / Azure / GCP
+.aws/
+.azure/
+.gcp/
+
+# =========================
+# POSTMAN / APIs
+# =========================
+postman/
+*.postman_collection.json
+*.postman_environment.json
+
+# =========================
+# PLAYWRIGHT
+# =========================
+playwright-report/
+test-results/
+blob-report/
+
+# Screenshots / Videos
+screenshots/
+videos/
+trace/
+
+# =========================
+# SELENIUM
+# =========================
+selenium.log
+
+# Drivers
+chromedriver*
+geckodriver*
+msedgedriver*
+
+# =========================
+# CYPRESS
+# =========================
+cypress/videos/
+cypress/screenshots/
+cypress/downloads/
+
+# =========================
+# NODE
+# =========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# =========================
+# C# / .NET
+# =========================
+bin/
+obj/
+
+# User-specific
+*.user
+*.suo
+*.userprefs
+
+# Rider / VS
+.idea/
+.vs/
+
+# =========================
+# VISUAL STUDIO CODE
+# =========================
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+
+# =========================
+# DOCKER
+# =========================
+docker-compose.override.yml
+
+# =========================
+# RELATÓRIOS QA
+# =========================
+reports/
+allure-results/
+allure-report/
+
+# =========================
+# ARQUIVOS TEMPORÁRIOS
+# =========================
+*.tmp
+*.temp
+*.swp
+
+# =========================
+# BACKUPS
+# =========================
+*.zip
+*.rar
+*.7z
+backup/
+backups/
+
+# =========================
+# IA / TOKENS
+# =========================
+openai_key.txt
+tokens.txt
+secrets.txt
+credentials.json
+
+# =========================
+# ARQUIVOS DE TESTE LOCAL
+# =========================
+local.settings.json
+appsettings.Development.json
+appsettings.Local.json
+
+# =========================
+# LOGS
+# =========================
+*.log
+logs/
+
+# =========================
+# COBERTURA
+# =========================
+coverage/
+.coverage.*
+
+# =========================
+# CACHE
+# =========================
+.cache/
+.temp/
