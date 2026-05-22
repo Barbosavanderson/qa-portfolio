@@ -1,4 +1,4 @@
-# 🧪 QA Portfolio — Anderson Barbosa
+# 🧪 QA Portfolio — Vanderson Barbosa
 
 > Repositório de estudos e projetos práticos de **Quality Engineering moderno**.  
 > Baseado em análise de vagas reais do mercado brasileiro (2026) e revisado por QA Sênior.
