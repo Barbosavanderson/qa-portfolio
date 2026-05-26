@@ -232,8 +232,8 @@ Projeto integrador que reúne todas as camadas técnicas em um único repositór
 ## 📬 Contato
 
 **Anderson Barbosa**  
-🔗 [LinkedIn](https://linkedin.com/in/seu-perfil) ← atualize com seu link  
-📧 seu-email@gmail.com ← atualize com seu email  
+🔗 [LinkedIn](https://linkedin.com/in/seu-perfil)   
+📧 barbosavanderson@hotmail.com
 🐙 [github.com/Barbosavanderson](https://github.com/Barbosavanderson)
 
 ---
